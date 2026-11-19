@@ -4,7 +4,7 @@ I'm a DevOps / Platform Engineer from Denmark.
 
 I've spent most of my career around infrastructure, operations, and automation, these days mostly somewhere between Kubernetes, platform engineering, software delivery.
 
-Most of my day-to-day work revolves around things like; `Kubernetes`, `Azure`, `Helm`, `Argo CD`, `Azure Pipelines`, `PowerShell`, `C# / .NET` or `RabbitMQ`
+Most of my day-to-day work revolves around things like; `Kubernetes`, `Azure`, `Helm`, `GitOps`, `Pipelines`, `PowerShell`, `C# / .NET` or `Message Brokers`
 
 This GitHub is mostly a home for things I want to remember, reuse, experiment with, or build because they solve some small annoyance.
 Most of my repositories are private, but I'll occasionally put things here when they're useful or interesting enough to share. 😅
